@@ -17,6 +17,7 @@ Connect with me :
   </a>
 </div>
 
+___
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -26,5 +27,11 @@ Connect with me :
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   
 </div>
+
+___
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maheshwari0310&theme=dark&background=000000)](https://git.io/streak-stats)
+___
 
 <img src="https://komarev.com/ghpvc/?username=maheshwari0310&style=flat-square&color=blue" alt=""/>
