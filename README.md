@@ -5,7 +5,7 @@
 
 - 📚 Sophomore pursuing Computer Engineering at GEC Goa
 - 🌱 I’m currently learning Java , Python
-- 💬 Ask me about C,C++,Coding
+- 💬 AMA, I am happy to help!
 - 📫 How to reach me: maheshwariterse@gmail.com
 - 😄 Pronouns: She/her 
 
