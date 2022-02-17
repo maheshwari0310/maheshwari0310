@@ -35,7 +35,7 @@ ___
 </div>
 
 ___
-### ➡️<img src="https://camo.githubusercontent.com/0ff0f97964579010ea942ea6de5a45402aaf59a705cb51d0a0d547334118ddd9/68747470733a2f2f696d6775722e636f6d2f6f376e635a46702e6a7067" width="40" height="40"/>&nbsp;: Achievements 
+### ➡️<img src="https://camo.githubusercontent.com/0ff0f97964579010ea942ea6de5a45402aaf59a705cb51d0a0d547334118ddd9/68747470733a2f2f696d6775722e636f6d2f6f376e635a46702e6a7067" width="40" height="40"/>&nbsp; Achievements :
 #### Harvard WECode WEAmplify Scholar
 <div>
   <img src="https://images.squarespace-cdn.com/content/v1/614105a6a5c38b4a59e335e8/2dc09af4-cc5d-466c-9ac0-4f5b1bdb4bd4/Logo+3+Only.png?format=750w" title="Harvard WECode" alt="Harvard WECode" width="40" height="40"/>&nbsp;
