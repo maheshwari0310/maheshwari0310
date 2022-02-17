@@ -35,8 +35,13 @@ ___
 </div>
 
 ___
-### :hammer_and_wrench: Some Achievements
+### 🏆⭐: Achievments 
+#### Harvard WECode WEAmplify Scholar
 <div>
+  <img src="https://images.squarespace-cdn.com/content/v1/614105a6a5c38b4a59e335e8/2dc09af4-cc5d-466c-9ac0-4f5b1bdb4bd4/Logo+3+Only.png?format=750w" title="Harvard WECode" alt="Harvard WECode" width="40" height="40"/>&nbsp;
+ 
+ #### Carolyn Leighton Scholar WITI
+
   <img src="https://www.witi.com/BD-themes/witi2014/images/witi-logo.png" title="WITI" alt="WITI" width="40" height="40"/>&nbsp;
   
   </div>
