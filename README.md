@@ -3,7 +3,7 @@
   <img src="https://github.com/satakshigarg/satakshigarg/raw/main/git.gif" width="300"/>
 </div>
 
-- 📚 Sophomore pursuing Computer Engineering at GEC Goa
+- 📚 Studying Computer Engineering at GEC Goa
 - 🌱 I’m currently learning Java , Python
 - 💬 AMA, I am happy to help!
 - 📫 How to reach me: maheshwariterse@gmail.com
@@ -35,6 +35,7 @@ ___
 </div>
 
 ___
+<!--
 ### ➡️<img src="https://camo.githubusercontent.com/0ff0f97964579010ea942ea6de5a45402aaf59a705cb51d0a0d547334118ddd9/68747470733a2f2f696d6775722e636f6d2f6f376e635a46702e6a7067" width="40" height="40"/>&nbsp; Achievements :
 #### Harvard WECode WEAmplify Scholar
 <div>
@@ -47,6 +48,7 @@ ___
   </div>
 
 ___
+-->
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maheshwari0310&theme=dark&background=000000)](https://git.io/streak-stats)
