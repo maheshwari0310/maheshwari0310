@@ -1,4 +1,4 @@
-# Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Maheshwari 👩🏻‍💻💫
+# Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Maheshwari<img src="https://c.tenor.com/_eMR2C5_RxwAAAAj/laptop-user-joypixels.gif" width="30px">💫
 <div id="header" align="center">
   <img src="https://github.com/satakshigarg/satakshigarg/raw/main/git.gif" width="300"/>
 </div>
