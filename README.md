@@ -1,6 +1,6 @@
 # Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Maheshwari<img src="https://c.tenor.com/_eMR2C5_RxwAAAAj/laptop-user-joypixels.gif" width="30px">💫
 <div id="header" align="center">
-  <img src="https://github.com/satakshigarg/satakshigarg/raw/main/git.gif" width="300"/>
+  <img src="https://media4.giphy.com/media/BferOKonYOspm28AiB/200.webp?cid=ecf05e473nw70t4jkyrb5id203zajpbtdr6ax8tmymkua3mz&rid=200.webp&ct=g" width="300"/>
 </div>
 
 - 📚 Studying Computer Engineering at GEC Goa
